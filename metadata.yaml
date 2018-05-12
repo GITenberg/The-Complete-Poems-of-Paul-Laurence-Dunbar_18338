@@ -1,0 +1,38 @@
+_repo: The-Complete-Poems-of-Paul-Laurence-Dunbar_18338
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunbar, Paul Laurence
+    birthdate: 1872
+    deathdate: 1906
+    gutenberg_agent_id: '6269'
+    url: http://www.gutenberg.org/2009/agents/6269
+    wikipedia: http://en.wikipedia.org/wiki/Paul_Laurence_Dunbar
+description: ''
+gutenberg_issued: '2006-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Poetry'
+- !lcc 'PS'
+title: The Complete Poems of Paul Laurence Dunbar
+url: http://www.gutenberg.org/ebooks/18338
